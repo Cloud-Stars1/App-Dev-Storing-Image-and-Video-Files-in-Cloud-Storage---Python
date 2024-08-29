@@ -3,7 +3,7 @@
 ## Solution [here](https://youtu.be/gnRrAbUzMdc)
 
 ### Run the following Commands in the Cloud shell
-####Now need to export the REGION from task 1 point 2 
+#### Now need to export the REGION from task 1 point 2 
 
 ```
 export REGION=
